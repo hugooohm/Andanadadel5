@@ -1,0 +1,16 @@
+{
+  "slug": "mi-nueva-noticia",
+  "title": "Título de la noticia",
+  "date": "2026-02-19",
+  "category": "Actualidad",
+  "image": "https://andanadadel5.com/media/posts/mi-nueva-noticia.jpg",
+  "imageVariants": [480, 720, 1200],
+  "socialImage": "https://andanadadel5.com/media/posts/mi-nueva-noticia-og.jpg",
+  "imageAlt": "Descripción breve de la imagen",
+  "imageCaption": "Pie de foto opcional",
+  "excerpt": "Resumen breve de la noticia para las cards.",
+  "featured": false,
+  "priority": 0,
+  "tags": ["Actualidad"],
+  "contentHtml": "<p>Contenido del artículo...</p>"
+}

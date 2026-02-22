@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title id="meta-title">Andanada del 5</title>
+    <meta id="meta-description" name="description" content="Crónicas, análisis y actualidad taurina.">
+    <meta name="author" content="Andanada del 5">
+    <link id="canonical-link" rel="canonical" href="https://andanadadel5.com/">
+
+    <meta id="meta-og-title" property="og:title" content="Andanada del 5">
+    <meta id="meta-og-description" property="og:description" content="Crónicas, análisis y actualidad taurina.">
+    <meta id="meta-og-type" property="og:type" content="website">
+    <meta id="meta-og-url" property="og:url" content="https://andanadadel5.com/">
+    <meta id="meta-og-image" property="og:image" content="https://andanadadel5.com/media/img/logoblanco.png">
+    <meta property="og:site_name" content="Andanada del 5">
+    <meta property="og:locale" content="es_ES">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta id="meta-twitter-title" name="twitter:title" content="Andanada del 5">
+    <meta id="meta-twitter-description" name="twitter:description" content="Crónicas, análisis y actualidad taurina.">
+    <meta id="meta-twitter-image" name="twitter:image" content="https://andanadadel5.com/media/img/logoblanco.png">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://andanadadel5.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Inter:wght@500;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="icon" type="image/png" href="media/img/faviconandanada.png">
+    <meta name="theme-color" content="#000000">
+    <link rel="manifest" href="manifest.json">
+    <link rel="alternate" type="application/rss+xml" title="Andanada del 5" href="feed.xml">
+</head>
+<body data-page="estadisticas">
+<a class="skip-link" href="#main-content">Saltar al contenido</a>
+<header class="site-header">
+    <div class="site-header__top">
+        <div class="site-header__top-inner">
+            <div class="site-header__logo">
+                <a href="index.html" aria-label="Inicio Andanada del 5">
+                    <span class="logo-mark">
+                        <img class="logo-img" src="media/img/logoblanco.png" alt="Andanada del 5" loading="lazy">
+                    </span>
+                    <span class="logo-text">Andanada del 5</span>
+                    <span class="logo-tagline">Medio taurino digital</span>
+                </a>
+            </div>
+            <div class="site-header__meta">
+                <span id="header-date"></span>
+            </div>
+        </div>
+    </div>
+    <nav class="site-nav" aria-label="Navegación principal">
+        <button class="site-nav__toggle" aria-expanded="false" aria-controls="main-nav" aria-label="Abrir menú principal">
+            <span class="site-nav__toggle-box">
+                <span class="site-nav__toggle-line"></span>
+                <span class="site-nav__toggle-line"></span>
+                <span class="site-nav__toggle-line"></span>
+            </span>
+        </button>
+        <ul id="main-nav" class="site-nav__list">
+            <li><a class="site-nav__link" href="index.html">Portada</a></li>
+            <li><a class="site-nav__link" href="archive.html">Archivo</a></li>
+            <li><a class="site-nav__link" href="estadisticas.html">Estadísticas</a></li>
+            <li><a class="site-nav__link" href="category.html?cat=Actualidad">Actualidad</a></li>
+            <li><a class="site-nav__link" href="category.html?cat=Ferias">Ferias</a></li>
+            <li><a class="site-nav__link" href="category.html?cat=Crónicas">Crónicas</a></li>
+            <li><a class="site-nav__link" href="category.html?cat=Entrevistas">Entrevistas</a></li>
+            <li><a class="site-nav__link" href="category.html?cat=Festejo Popular">Festejo Popular</a></li>
+            <li><a class="site-nav__link" href="category.html?cat=Opinión">Opinión</a></li>
+            <li><a class="site-nav__link" href="agenda.html">Agenda</a></li>
+            <li class="site-nav__search">
+                <button type="button" class="site-nav__search-btn" aria-label="Buscar en Andanada del 5">
+                    <span class="site-nav__search-dot"></span>
+                    Buscar
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+
+<main id="main-content" class="page page--stats">
+    <header class="page-header">
+        <p class="page-header__kicker">Escalafones</p>
+        <h1 class="page-header__title">Estadísticas de la temporada</h1>
+        <p class="page-header__description">
+            Matadores, novilleros, rejoneadores y ganaderías, unificados en una misma sección.
+        </p>
+    </header>
+
+    <section class="page-section" aria-label="Controles de filtrado">
+        <div class="stats-controls">
+            <div class="stats-controls__row">
+                <div class="stats-tabs" id="stats-tabs" role="tablist">
+                    <button type="button" class="stats-tab stats-tab--active" data-type="matadores">Matadores</button>
+                    <button type="button" class="stats-tab" data-type="novilleros">Novilleros</button>
+                    <button type="button" class="stats-tab" data-type="rejoneadores">Rejoneadores</button>
+                    <button type="button" class="stats-tab" data-type="ganaderias">Ganaderías</button>
+                </div>
+                <div class="stats-season">
+                    <label class="stats-season__label" for="stats-season-select">Temporada</label>
+                    <select id="stats-season-select" class="stats-season__select">
+                        <option value="2026" selected>2026</option>
+                        <option value="2025">2025</option>
+                    </select>
+                </div>
+            </div>
+            <div class="stats-controls__row stats-controls__row--bottom">
+                <div class="stats-updated">
+                    <span class="stats-updated__label">Actualizado:</span>
+                    <span id="stats-updated" class="stats-updated__value">–</span>
+                </div>
+                <form class="stats-search" role="search" onsubmit="return false;">
+                    <label class="stats-search__label" for="stats-search-input">Buscar por nombre</label>
+                    <input
+                        id="stats-search-input"
+                        class="stats-search__input"
+                        type="search"
+                        name="q"
+                        autocomplete="off"
+                        placeholder="Buscar torero o ganadería…"
+                    >
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <section class="page-section" aria-label="Tabla de estadísticas">
+        <div id="stats-table-container" class="stats-table-wrap" aria-live="polite"></div>
+        <p class="stats-footnote">
+            Solo se muestran los 20 primeros puestos de cada escalafón.
+        </p>
+    </section>
+</main>
+
+<footer class="site-footer">
+    <section class="newsletter" aria-labelledby="newsletter-heading">
+        <div class="newsletter__inner">
+            <div class="newsletter__copy">
+                <p class="newsletter__kicker">Newsletter</p>
+                <h2 id="newsletter-heading" class="newsletter__title">Suscríbete al newsletter</h2>
+                <p class="newsletter__text">
+                    Una selección curada de crónicas, análisis y actualidad directa a tu correo.
+                </p>
+            </div>
+            <form class="newsletter__form" action="#" method="post" novalidate>
+                <label class="newsletter__label" for="newsletter-email">Correo electrónico</label>
+                <div class="newsletter__controls">
+                    <input
+                        id="newsletter-email"
+                        name="email"
+                        type="email"
+                        inputmode="email"
+                        autocomplete="email"
+                        required
+                        placeholder="tu@correo.com"
+                        class="newsletter__input"
+                    >
+                    <button type="submit" class="newsletter__button">Suscribirme</button>
+                </div>
+                <p class="newsletter__hint">
+                    Formulario preparado para integrar proveedor externo (Buttondown, Brevo, Mailchimp, etc.).
+                </p>
+                <p class="newsletter__feedback" aria-live="polite"></p>
+            </form>
+        </div>
+    </section>
+
+    <section class="footer-meta">
+        <div class="footer-meta__inner">
+            <div class="footer-meta__brand">Andanada del 5</div>
+            <div class="footer-meta__row">
+                <p class="footer-meta__text">
+                    &copy; <span id="footer-year"></span> Todos los derechos reservados.
+                </p>
+                <div class="footer-links">
+                    <a class="footer-links__link" href="aviso-legal.html">Aviso legal</a>
+                    <a class="footer-links__link" href="privacidad.html">Privacidad</a>
+                    <a class="footer-links__link" href="cookies.html">Cookies</a>
+                    <a class="footer-links__link" href="contacto.html">Contacto</a>
+                </div>
+            </div>
+        </div>
+    </section>
+</footer>
+
+<button type="button" class="scroll-top" aria-label="Volver arriba">↑</button>
+<script src="assets/js/main.js" defer></script>
+<script src="assets/js/estadisticas.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "slug": "cronica-san-isidro-apertura-feria",
+      "title": "Crónica de la apertura de San Isidro: la plaza toma el pulso",
+      "date": "2026-05-10",
+      "category": "Crónicas",
+      "image": "https://andanadadel5.com/media/posts/cronica-san-isidro-apertura-feria.jpg",
+      "imageVariants": [480, 720, 1200, 1600],
+      "socialImage": "https://andanadadel5.com/media/posts/cronica-san-isidro-apertura-feria-og.jpg",
+      "imageAlt": "Plaza de toros de Las Ventas al atardecer",
+      "excerpt": "La primera de feria deja detalles de interés y una afición con ganas de exigir.",
+      "featured": true,
+      "priority": 0,
+      "tags": ["San Isidro", "Las Ventas", "Madrid"]
+    },
+    {
+      "slug": "opinion-valor-de-la-criticataurina",
+      "title": "El valor de la crítica taurina en la era de las redes",
+      "date": "2026-04-28",
+      "category": "Opinión",
+      "image": "https://andanadadel5.com/media/posts/opinion-valor-de-la-criticataurina.jpg",
+      "imageVariants": [480, 720, 1200],
+      "socialImage": "https://andanadadel5.com/media/posts/opinion-valor-de-la-criticataurina-og.jpg",
+      "imageAlt": "Cronista taurino escribiendo en una libreta durante la corrida",
+      "excerpt": "Entre la inmediatez del tuit y el silencio, la crónica sigue siendo necesaria.",
+      "featured": true,
+      "priority": 0,
+      "tags": ["Opinión", "Crítica taurina", "Medios"]
+    },
+    {
+      "slug": "entrevista-torero-nueva-generacion",
+      "title": "“No vengo a pasar el rato”: entrevista a una nueva figura",
+      "date": "2026-03-30",
+      "category": "Entrevistas",
+      "image": "https://andanadadel5.com/media/posts/entrevista-torero-nueva-generacion.jpg",
+      "imageVariants": [480, 720, 1200],
+      "socialImage": "https://andanadadel5.com/media/posts/entrevista-torero-nueva-generacion-og.jpg",
+      "imageAlt": "Torero joven cruzando el patio de cuadrillas",
+      "excerpt": "Convicción, ambición y una manera distinta de entender el toreo.",
+      "featured": true,
+      "priority": 0,
+      "tags": ["Entrevista", "Toreros", "Nueva generación"]
+    },
+    {
+      "slug": "actualidad-carteles-feria-primavera",
+      "title": "Se presentan los carteles de la feria de primavera",
+      "date": "2026-02-15",
+      "category": "Actualidad",
+      "image": "https://andanadadel5.com/media/posts/actualidad-carteles-feria-primavera.jpg",
+      "imageVariants": [480, 720, 1200],
+      "socialImage": "https://andanadadel5.com/media/posts/actualidad-carteles-feria-primavera-og.jpg",
+      "imageAlt": "Detalle de los carteles de la feria de primavera en una pared",
+      "excerpt": "Figuras consagradas y revelaciones comparten una feria marcada por la competencia.",
+      "featured": false,
+      "priority": 0,
+      "tags": ["Actualidad", "Carteles", "Feria de primavera"]
+    },
+    {
+      "slug": "cronicataurina-tarde-de-contrastes",
+      "title": "Tarde de contrastes: cuando el toro manda",
+      "date": "2026-01-22",
+      "category": "Crónicas",
+      "image": "https://andanadadel5.com/media/posts/cronicataurina-tarde-de-contrastes.jpg",
+      "imageVariants": [480, 720, 1200],
+      "socialImage": "https://andanadadel5.com/media/posts/cronicataurina-tarde-de-contrastes-og.jpg",
+      "imageAlt": "Toro arrancando desde largo hacia el capote",
+      "excerpt": "Una corrida que recordó que sin toro no hay historia posible en la arena.",
+      "featured": false,
+      "priority": 0,
+      "tags": ["Crónicas", "Toro", "Tarde de contrastes"]
+    }
+  ]
+}

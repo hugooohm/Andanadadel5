@@ -1,0 +1,21 @@
+{
+  "name": "Andanada del 5",
+  "short_name": "Andanada5",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111111",
+  "lang": "es-ES",
+  "icons": [
+    {
+      "src": "media/img/logoblanco.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "media/img/logoblanco.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

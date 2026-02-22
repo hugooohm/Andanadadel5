@@ -1,0 +1,13 @@
+{
+  "id": "talavante",
+  "nombre": "Alejandro Talavante",
+  "tipo": "matadores",
+  "foto": "",
+  "bio": "Toreo de inspiración y personalidad propia, alternando grandes tardes con apuestas artísticas en plazas de primera categoría.",
+  "enlaces": [
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/andanadadel5oficial/"
+    }
+  ]
+}
