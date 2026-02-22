@@ -1,0 +1,13 @@
+{
+  "id": "victorino-martin",
+  "nombre": "Victorino Martín",
+  "tipo": "ganaderias",
+  "foto": "",
+  "bio": "Una de las ganaderías más emblemáticas del campo bravo, sinónimo de seriedad, emoción y exigencia en plazas de todo el mundo.",
+  "enlaces": [
+    {
+      "label": "Web oficial",
+      "url": "https://example.com"
+    }
+  ]
+}

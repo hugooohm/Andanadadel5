@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Andanada del 5</title>
+    <link>https://andanadadel5.com</link>
+    <description>Crónicas, análisis y actualidad taurina.</description>
+    <item>
+      <title>Crónica de la apertura de San Isidro: la plaza toma el pulso</title>
+      <link>https://andanadadel5.com/post.html?slug=cronica-san-isidro-apertura-feria</link>
+      <guid isPermaLink="false">cronica-san-isidro-apertura-feria</guid>
+      <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+      <description>La primera de feria deja detalles de interés y una afición con ganas de exigir.</description>
+    </item>
+    <item>
+      <title>El valor de la crítica taurina en la era de las redes</title>
+      <link>https://andanadadel5.com/post.html?slug=opinion-valor-de-la-criticataurina</link>
+      <guid isPermaLink="false">opinion-valor-de-la-criticataurina</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Entre la inmediatez del tuit y el silencio, la crónica sigue siendo necesaria.</description>
+    </item>
+    <item>
+      <title>“No vengo a pasar el rato”: entrevista a una nueva figura</title>
+      <link>https://andanadadel5.com/post.html?slug=entrevista-torero-nueva-generacion</link>
+      <guid isPermaLink="false">entrevista-torero-nueva-generacion</guid>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+      <description>Convicción, ambición y una manera distinta de entender el toreo.</description>
+    </item>
+    <item>
+      <title>Se presentan los carteles de la feria de primavera</title>
+      <link>https://andanadadel5.com/post.html?slug=actualidad-carteles-feria-primavera</link>
+      <guid isPermaLink="false">actualidad-carteles-feria-primavera</guid>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 GMT</pubDate>
+      <description>Figuras consagradas y revelaciones comparten una feria marcada por la competencia.</description>
+    </item>
+    <item>
+      <title>Tarde de contrastes: cuando el toro manda</title>
+      <link>https://andanadadel5.com/post.html?slug=cronicataurina-tarde-de-contrastes</link>
+      <guid isPermaLink="false">cronicataurina-tarde-de-contrastes</guid>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+      <description>Una corrida que recordó que sin toro no hay historia posible en la arena.</description>
+    </item>
+  </channel>
+</rss>

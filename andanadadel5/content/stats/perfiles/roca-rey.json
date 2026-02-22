@@ -1,0 +1,13 @@
+{
+  "id": "roca-rey",
+  "nombre": "Roca Rey",
+  "tipo": "matadores",
+  "foto": "",
+  "bio": "Figura del toreo con presencia habitual en las grandes ferias, conocido por su capacidad de arrastre y compromiso con las plazas de máxima exigencia.",
+  "enlaces": [
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/andanadadel5oficial/"
+    }
+  ]
+}
