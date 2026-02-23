@@ -1,0 +1,11 @@
+[[plugins]]
+package = "@netlify/plugin-lighthouse"
+  [plugins.inputs.settings]
+  locale = "es"
+
+[build]
+publish = "."
+command = "node scripts/generate-index.mjs && node scripts/generate-sitemap.mjs && node scripts/generate-feed.mjs"
+
+[build.environment]
+NODE_VERSION = "18"
